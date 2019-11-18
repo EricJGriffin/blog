@@ -8,3 +8,5 @@ comments on a post. The application also features a working nav-bar and Search f
   New blog-posts are created either through the Django admin or by using the url /blog-new/. 
   The application features user-authentication through the Django admin system. A user is required to log in to the web application 
 in order to create new blog posts or comment on existing blog posts. 
+
+![image](https://user-images.githubusercontent.com/30808383/69066366-2cb34000-09ef-11ea-821d-7704b2e8e7d2.png)
