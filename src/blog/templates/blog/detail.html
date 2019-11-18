@@ -1,0 +1,51 @@
+{% extends "base.html" %}
+{% load crispy_forms_tags %}
+
+{% block content %}
+	<div class="row">
+
+		{% include 'blog/list-inline.html' with blog_post=object detail=True %}
+
+		{% if request.user.is_authenticated %}
+			{% if request.user.is_staff %}
+				<div class="col-12">
+					<a href="{{ object.get_edit_url }}">Edit</a>
+					<a href="{{ object.get_delete_url }}">Delete</a>
+				</div>
+			{% endif %}
+		{% endif %}
+	</div>
+
+	<div class="col-md-8 mx-auto">
+		<p class="lead">Comments</p>
+		<form method="POST" action="">{% csrf_token %}
+			{{ comment_form|crispy }}
+			<button type="submit">Post comment</button>
+		</form>
+		<hr/>
+		{% for comment in comments %}
+			<blockquote class="blockquote ml-2 mr-2">
+  			<p class="mb-0">{{ comment.content }}</p>
+  			<footer class="blockquote-footer">via {{ comment.user }} | {{ comment.timestamp|timesince }} ago | {% if comment.children.count > 0 %}{{ comment.children.count }}  Comment{% if comment.children.count > 1 %}s{% endif %} | {% endif %} <a class="comment-reply-btn" href="#">Reply</a></footer>
+	  			<div class="comment-reply"	>
+		  		{% for child_comment in comment.children %}
+		  			<blockquote class="blockquote">
+		  			<p class="mb-0">{{ child_comment.content }}</p>
+		  			<footer class="blockquote-footer">via {{ child_comment.user }} | {{ child_comment.timestamp|timesince }} ago</footer>
+		  			</blockquote>
+		  		{% endfor %}
+
+
+					<form method="POST" action="">{% csrf_token %}
+						{{ comment_form|crispy }}
+						<input type="hidden" name="parent_id" value="{{ comment.id }}">
+						<button type="submit">Reply</button>
+					</form>
+
+				</div>
+
+			</blockquote>
+		<hr/>
+		{% endfor %}
+	</div>
+{% endblock %}

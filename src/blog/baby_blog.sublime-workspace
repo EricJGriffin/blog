@@ -1,0 +1,451 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"auto",
+				"auto_now_add"
+			],
+			[
+				"Con",
+				"ContactForm"
+			],
+			[
+				"contact",
+				"contact_page"
+			],
+			[
+				"blog",
+				"blog_post_delete_view"
+			],
+			[
+				"blo",
+				"blog_post_create_view"
+			],
+			[
+				"pub",
+				"publish_date"
+			],
+			[
+				"Bl",
+				"BlogPostModelForm"
+			],
+			[
+				"Blog",
+				"BlogPostForm"
+			],
+			[
+				"blog_post",
+				"blog_post_list_view"
+			],
+			[
+				"sta",
+				"street_names_ref"
+			],
+			[
+				"city",
+				"city_ref"
+			],
+			[
+				"s",
+				"street_list"
+			],
+			[
+				"street_",
+				"street_names_ref"
+			],
+			[
+				"last",
+				"last_names_ref"
+			],
+			[
+				"first_",
+				"first_names_ref"
+			],
+			[
+				"first",
+				"first"
+			],
+			[
+				"csv",
+				"csv_reader"
+			],
+			[
+				"sched",
+				"sched_info"
+			],
+			[
+				"cont",
+				"contact_page"
+			],
+			[
+				"about",
+				"about_page"
+			],
+			[
+				"H",
+				"HttpResponse"
+			],
+			[
+				"home",
+				"home_page"
+			],
+			[
+				"ex",
+				"example2"
+			],
+			[
+				"ext",
+				"extract_all_phones"
+			],
+			[
+				"quote",
+				"quote_text"
+			],
+			[
+				"url",
+				"url_add"
+			],
+			[
+				"born",
+				"born_location"
+			],
+			[
+				"author",
+				"author_url"
+			],
+			[
+				"autho",
+				"author_url"
+			],
+			[
+				"get",
+				"get_text"
+			],
+			[
+				"title",
+				"title_text"
+			],
+			[
+				"art",
+				"articles"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"border",
+				"border-bottom\tproperty"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"allow",
+				"allowed_suits"
+			],
+			[
+				"colored",
+				"colored"
+			],
+			[
+				"make",
+				"make_dict"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"ng generate component nav"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Projects/baby_blog",
+		"/C/Projects/baby_blog/src",
+		"/C/Projects/baby_blog/src/baby_blog"
+	],
+	"file_history":
+	[
+		"/C/Projects/baby_journal/src/blog/templates/blog/form.html",
+		"/C/Projects/baby_journal/src/baby_journal/settings.py",
+		"/C/Projects/baby_journal/src/blog/models.py",
+		"/C/Projects/baby_journal/src/comments/admin.py",
+		"/C/Projects/baby_journal/src/searches/views.py",
+		"/C/Projects/baby_journal/src/searches/templates/searches/view.html",
+		"/C/Projects/baby_journal/src/blog/templates/blog/detail.html",
+		"/C/Projects/baby_journal/src/templates/navbar.html",
+		"/C/Projects/baby_journal/src/searches/admin.py",
+		"/C/Projects/baby_journal/src/searches/models.py",
+		"/C/Projects/baby_journal/src/blog/templates/blog/list-inline.html",
+		"/C/Projects/baby_journal/src/baby_journal/urls.py",
+		"/C/Projects/baby_journal/src/blog/views.py",
+		"/C/Projects/baby_journal/src/blog/forms.py",
+		"/C/Projects/baby_journal/src/templates/form.html",
+		"/C/Projects/baby_journal/src/staticfiles/blank.txt",
+		"/C/Projects/baby_journal/static_cdn_test/blank/blank.txt",
+		"/C/Projects/baby_journal/src/baby_journal/views.py",
+		"/C/Projects/baby_journal/src/templates/home.html",
+		"/C/Projects/baby_journal/src/blog/templates/blog/list.html",
+		"/C/Projects/baby_journal/src/templates/base.html",
+		"/C/Projects/baby_journal/src/blog/templates/blog/delete.html",
+		"/C/Projects/baby_journal/src/baby_journal/forms.py",
+		"/C/Projects/baby_journal/src/templates/contact.html",
+		"/C/Projects/baby_journal/src/blog/urls.py",
+		"/C/Projects/baby_journal/src/templates/blog_post_update.html",
+		"/C/Projects/baby_journal/src/templates/blog_post_delete.html",
+		"/C/Projects/baby_journal/src/templates/blog_post_list.html",
+		"/C/Projects/baby_journal/src/templates/blog_post_create.html",
+		"/C/Projects/baby_journal/src/templates/blog_post_detail.html",
+		"/C/Projects/baby_journal/src/blog/admin.py",
+		"/C/Projects/baby_journal/src/templates/hello_world.html",
+		"/C/Users/TheCoolestGiftEver/Desktop/WebScrapin/scrape_game.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/WebScrapin/scraping.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/WebScrapin/book_scraper.py",
+		"/C/Projects/try_django/src/blog/models.py",
+		"/C/Projects/try_django/src/try_django/settings.py",
+		"/C/Projects/try_django/src/try_django/urls.py",
+		"/C/Projects/try_django/src/templates/navbar.html",
+		"/C/Projects/try_django/src/searches/models.py",
+		"/C/Projects/try_django/src/searches/admin.py",
+		"/C/Projects/try_django/src/searches/views.py",
+		"/C/Projects/try_django/src/searches/templates/searches/view.html",
+		"/C/Projects/try_django/src/blog/views.py",
+		"/C/Projects/try_django/src/blog/templates/blog/list-inline.html",
+		"/C/Projects/try_django/src/templates/form.html",
+		"/C/Projects/try_django/src/blog/forms.py",
+		"/C/Projects/try_django/src/try_django/views.py",
+		"/C/Projects/try_django/src/templates/base.html",
+		"/C/Projects/try_django/src/staticfiles/blank.txt",
+		"/C/Projects/try_django/static_cdn_test/blank/blank.txt",
+		"/C/Projects/try_django/src/templates/home.html",
+		"/C/Projects/try_django/src/templates/js.html",
+		"/C/Projects/try_django/src/blog/templates/blog/list.html",
+		"/C/Projects/try_django/src/blog/templates/blog/detail.html",
+		"/C/Users/TheCoolestGiftEver/Desktop/freelance/matching.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/freelance/parse_json.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/freelance/UTM.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/sql_py/bulk_insert.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/trythis.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/interview.py",
+		"/C/Projects/try_django/src/blog/urls.py",
+		"/C/Projects/try_django/src/blog/templates/blog/delete.html",
+		"/C/Projects/try_django/src/blog/templates/blog/create.html",
+		"/C/Projects/try_django/src/templates/blog_post_list.html",
+		"/C/Projects/try_django/src/templates/blog_post_detail.html",
+		"/C/Projects/try_django/src/templates/blog_post_create.html",
+		"/C/Projects/try_django/src/templates/blog_post_delete.html",
+		"/C/Projects/try_django/src/templates/blog_post_update.html",
+		"/C/Projects/try_django/src/blog/migrations/urls.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/practice/inch_fighters.csv",
+		"/C/Users/TheCoolestGiftEver/Desktop/practice/users.csv",
+		"/C/Users/TheCoolestGiftEver/Desktop/practice/fighters.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/practice/roomies.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/practice/roomies.csv",
+		"/C/Users/TheCoolestGiftEver/Desktop/practice/new_fighters.csv",
+		"/C/Users/TheCoolestGiftEver/Desktop/practice/fighters.csv",
+		"/C/Users/TheCoolestGiftEver/Desktop/practice/dict_fighters.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/practice/find_user.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/Regex/regex_subs.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/Regex/regex_books.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/WebScrapin/scrape_into_csv.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/WebScrapin/schedule.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/sql_py/basics.sql",
+		"/C/Users/TheCoolestGiftEver/Desktop/Regex/phone.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/Regex/compilation_flags.py",
+		"/C/Users/TheCoolestGiftEver/Desktop/WebScrapin/books3.csv",
+		"/C/Users/TheCoolestGiftEver/Desktop/WebScrapin/books.csv",
+		"/C/Users/TheCoolestGiftEver/Desktop/WebScrapin/books2.csv",
+		"/C/Users/TheCoolestGiftEver/Desktop/WebScrapin/quotes.csv",
+		"/C/Users/TheCoolestGiftEver/Desktop/test_html.html",
+		"/C/Users/TheCoolestGiftEver/Desktop/sql_problems",
+		"/C/Projects/newsletter/models/sublist.js",
+		"/C/Projects/newsletter/client/src/app/components/member-item/member-item.component.ts",
+		"/C/Projects/newsletter/client/src/app/app-routing.module.ts",
+		"/C/Projects/newsletter/client/src/app/app.component.ts",
+		"/C/Projects/newsletter/client/src/app/app.module.ts",
+		"/C/Projects/newsletter/client/src/app/services/member.service.ts",
+		"/C/Projects/newsletter/client/src/app/components/member-item/member-item.component.html",
+		"/C/Projects/newsletter/client/src/app/components/members/members.component.html",
+		"/C/Projects/newsletter/client/src/app/components/members/members.component.ts",
+		"/C/Projects/newsletter/client/src/app/app.component.html",
+		"/C/Projects/newsletter/client/src/app/models/Member.ts",
+		"/C/Projects/todolist/src/app/components/add-todo/add-todo.component.ts",
+		"/C/Projects/todolist/src/app/components/add-todo/add-todo.component.html",
+		"/C/Projects/todolist/src/app/components/todos/todos.component.html",
+		"/C/Projects/todolist/src/app/components/todos/todos.component.ts",
+		"/C/Projects/todolist/src/app/app.component.html",
+		"/C/Projects/todolist/src/app/components/pages/about/about.component.html",
+		"/C/Projects/todolist/src/app/app-routing.module.ts",
+		"/C/Projects/todolist/src/app/services/todo.service.ts",
+		"/C/Projects/todolist/src/app/components/add-todo/add-todo.component.css",
+		"/C/Projects/todolist/src/app/app.module.ts",
+		"/C/Projects/todolist/src/app/components/todo-item/todo-item.component.ts",
+		"/C/Projects/todolist/src/app/components/todo-item/todo-item.component.html",
+		"/C/Projects/todolist/src/app/components/layout/header/header.component.html",
+		"/C/Projects/todolist/src/app/components/layout/header/header.component.css",
+		"/C/Projects/todolist/src/app/models/Todo.ts",
+		"/C/Projects/todolist/src/app/components/todo-item/todo-item.component.css",
+		"/C/Projects/todolist/src/styles.css",
+		"/C/Projects/todolist/src/index.html",
+		"/C/Projects/todolist/src/app/app.component.ts",
+		"/C/Projects/ng8/src/app/home/home.component.ts",
+		"/C/Projects/ng8/src/app/nav/nav.component.ts",
+		"/C/Projects/ng8/src/app/app.module.ts",
+		"/C/Projects/ng8/src/app/app.component.scss",
+		"/C/Projects/bookstore/app.js",
+		"/C/Projects/bookstore/client/app.js"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "baby_blog.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 255.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
